@@ -4,7 +4,7 @@
     <div class="flex items-center justify-between w-full my-4 pl-4 sm:pr-4">
         <div class="mr-6">
           <h2 class="text-3xl md:text-4xl font-semibold tracking-tight leading-7 md:leading-10 mb-1 truncate">Manage My Shop</h2>
-          <div class="font-base tracking-tight text-gray-600">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
+          <div class="font-base tracking-tight text-gray-600"> Hello Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
         </div>
         <div class="flex items-center">
           <button class="bg-gray-900 px-5 py-2 text-sm shadow-sm font-semibold tracking-wider text-white rounded-full hover:bg-gray-800">AddShop</button>
